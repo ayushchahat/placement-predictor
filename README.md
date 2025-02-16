@@ -106,5 +106,3 @@ This plot visualizes the distribution of students based on IQ and CGPA, colored 
 ## Author
 **Ayush Kumar**
 
-## License
-This project is licensed under the MIT License.
