@@ -61,8 +61,7 @@ The dataset contains three columns:
 To run this project, install the required dependencies:
 
 ```bash
-pip install numpy pandas scikit-learn matplotlib mlxtend pickle-mixin
-# Placement Predictor
+pip install numpy pandas scikit-learn matplotlib mlxtend pickle-mixing
 
 ## Usage
 
@@ -97,8 +96,12 @@ print("Placement Prediction:", prediction)
 ### Decision Boundary (Figure 1 - fig1)
 This figure shows how the Logistic Regression model separates placed (orange) and non-placed (blue) students.
 
+![Figure 1 - Decision Boundary](fig1.png)
+
 ### Scatter Plot (Figure 2 - fig2)
 This plot visualizes the distribution of students based on IQ and CGPA, colored by placement status.
+
+![Figure 2 - Scatter Plot](fig2.png)
 
 ## Author
 **Ayush Kumar**
